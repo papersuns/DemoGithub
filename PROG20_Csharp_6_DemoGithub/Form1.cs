@@ -21,6 +21,9 @@ namespace PROG20_Csharp_6_DemoGithub
         {
             int i = 10;
             i = 12;
+            
+            //Detta är ändringar som en annan utvecklare gör och pushar upp (så vi kan testa pull)
+            int newValue = 12345;
         }
     }
 }
